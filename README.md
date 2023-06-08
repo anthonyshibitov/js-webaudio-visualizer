@@ -15,3 +15,5 @@ The lines are reactive to the audio at a default refresh rate of 10hz.
 Example GIF of a 16Hz-20kHz linear sweep:
 
 ![GIF of a frequency sweep](sweep-min.gif)
+
+Big thanks to [generative artistry](https://generativeartistry.com/tutorials/joy-division/) for the Joy Division inspo and canvas code!! :) 
