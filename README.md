@@ -1,6 +1,6 @@
 # WebAudio API Visualizer
 
-The actual song cannot be pushed for obvious reasons (copyright!! <3)
+The actual song cannot be pushed for obvious reasons (copyright!! <3) (song must be put into a /public folder)
 
 Stick your own in and check it out. Example image below.
 
