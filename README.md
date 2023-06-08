@@ -10,7 +10,7 @@ Example image below:
 
 As a default, the 44.1kHz sample is split into 128 evenly cut up frequency ranges, one line for each range (bottom-most line for the lowest bass frequencies).
 
-The lines are reactive to the audio at a default refresh rate of 10hz.
+The lines are reactive to the audio at a default refresh rate of 100Hz.
 
 Example GIF of a 16Hz-20kHz linear sweep:
 
